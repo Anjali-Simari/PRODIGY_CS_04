@@ -1,0 +1,7 @@
+--- session started at 2026-05-03 04:32:55 ---
+
+hello [SHIFT] !
+how are u[BACKSPACE] you [SHIFT] ?[CTRL] [ALT] byeee[SHIFT] !!!!
+
+
+--- logging stopped at 2026-05-03 04:34:06 ---
